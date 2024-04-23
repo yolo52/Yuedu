@@ -37,21 +37,15 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/yolo52/Legado/master/
 
 ##导入步骤：
 
-##二维码导入：
-打开"阅读"APP点击右下角的`我的`-`书源管理`，这时候再点击右上角的`┇`-`二维码导入` - 然后手机扫描下方二维码即可即可。
-
-![](https://bitbucket.org/xiu2/yuedu/raw/master/dist/img/img-03.png)
-
 ****
 
 ##网络导入(推荐)：
 打开"阅读"APP点击右下角的`我的`-`书源管理`，这时候再点击右上角的`┇`-`网络导入` - 输入下面的网络导入地址并点击`确定`按钮即可。
-- 网络导入地址：
 
 ****
 
 ##本地导入：
-打开 [书源分享地址](https://yuedu.xiu2.xyz) 后点击 `下载文件` 即可下载 shuyuan.json文件，存放到手机中任何你能找到的位置。
+打开 [书源分享地址](https://yolo-sy.html) 后点击 `下载文件` 即可下载 shuyuan.json文件，存放到手机中任何你能找到的位置。
 
 打开"阅读"APP点击右下角的`我的`-`书源管理`， 这时候再点击右上角的`┇`-`本地导入` - 选择shuyuan.json文件导入即可。
 
