@@ -23,10 +23,15 @@ yolo的阅读书源
 
 ##书源地址：
 大家可以定期导入一次书源，导入时APP会自动去重复的~
-- 书源分享地址： _https://yuedu.xiu2.xyz_  
+- 书源分享地址： _https://yolo-sy.html_  
 - 本地导入地址： 去上面的书源分享地址里点击 \[下载文件\]  
-- 网络导入地址：_http://sy.legado1.top/sy.php/d52ab50b7680f459780e5860353361bb.json_
-  
+- 网络导入地址：书源直链_http://sy.legado1.top/sy.php/d52ab50b7680f459780e5860353361bb.json_
+  以下 CDN 分流地址，任选一个  
+_https://raw.githubusercontent.com/yolo52/Legado/master/shuyuan.json_
+_https://raw.scholar.rr.nu/yolo52/Legado/master/shuyuan.json_  
+_https://raw.nuaa.cf/yolo52/Legado/master/shuyuan.json_  
+_https://raw.kkgithub.com/yolo52/Legado/master/shuyuan.json_  
+_https://jsd.onmicrosoft.cn/gh/yolo52/Legado/master/shuyuan.json_  
 ****
 
 ##导入步骤：
