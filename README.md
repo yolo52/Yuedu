@@ -25,14 +25,14 @@ yolo的阅读书源
 下方只提供了非轻书源。如需轻小说书源则可以点击code中json文件，然后复制浏览器链接到阅读中进行网络导入。
 
 
-- 网络导入地址：书源直链_http://sy.legado1.top/sy.php/d52ab50b7680f459780e5860353361bb.json_
+- 网络导入地址：书源直链http://sy.legado1.top/sy.php/d52ab50b7680f459780e5860353361bb.json
 
   以下 CDN 分流地址，任选一个  
 _https://raw.githubusercontent.com/yolo52/Legado/master/shuyuan.json_
-_https://raw.scholar.rr.nu/yolo52/Legado/master/shuyuan.json_  
+_https://raw.scholar.rr.nu/yolo52/Legado/master/shuyuan.json_
 _https://raw.nuaa.cf/yolo52/Legado/master/shuyuan.json_  
 _https://raw.kkgithub.com/yolo52/Legado/master/shuyuan.json_  
-https://github.moeyy.xyz/https://raw.githubusercontent.com/yolo52/Legado/master/shuyuan.json_  
+_https://github.moeyy.xyz/https://raw.githubusercontent.com/yolo52/Legado/master/shuyuan.json_  
 ****
 
 ##导入步骤：
