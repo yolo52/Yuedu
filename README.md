@@ -1,48 +1,51 @@
-# Legado
-yolo的阅读书源
+#  Legado
+Yolo  自 写 的 阅 读 书 源
 
-# 「阅读」APP 书源
-📚 自制的一些「阅读」小说书源。  
-如果你有什么好用的小说网站也可以 [Issues](https://github.com/yolo52/Legado/issues/new) 告诉我做成书源，另外觉得好用请在右上角点个⭐Star 鼓励一下~   
+# 「阅 读」APP 书源
+自制的一些「阅读」书源，书源后续可能会添加订阅源以及净化规则。  
+如果你有什么好用的小说网站也可以 [Issues](https://github.com/yolo52/Legado/issues/new) 告诉我，看到我会做成书源。另外觉得好用请在右上角点个⭐Star 鼓励一下或者赞赏支持我一下🥰~   
 
-「阅读」APP 不同于其他小说阅读软件，其原理为：解析小说网站的搜索页、详情页、目录页、正文页，提取相关信息来显示给你看，安装后还需要自行编写或导入书源才能使用，该项目就是将我自写的书源分享出来~  
+# 书源地址： 
+可进入 [发布页](https://github.com/yolo52/) ： https://github.com/yolo52 进行一键导入，更方便快捷。下方只提供了非轻书源。如需轻小说书源则可以点击code中json文件，然后复制浏览器链接到阅读中进行网络导入，如果导入出错，则自行寻找GitHub加速再进行导入。
 
-****
+- 网络导入地址：书源直链：
 
-> 本项目是「阅读」APP 的书源分享，官方项目为：[阅读开源地址](https://github.com/gedoor/legado)、[官方下载地址](https://github.com/gedoor/legado/releases)
-
-****
-
-## 温馨提示：
-
-因为所有书源均来自第三方小说网站，所以无法保证时效性，可能随时失效(特别是API书源，质量较好但容易失效)，因此强烈建议大家找到好用的书源时，对完本小说趁早全本缓存+导出为TXT文件，或者去网上下载全本TXT小说文件，免得书源失效后纠结...
-
->注意！因为精力有限加上我现在事比较多，所以`本项目书源较少，但会不定期维护`，想要更多书源的话可以去[源仓库](https://www.yckceo.com/yuedu/shuyuan)看看。
+「阅读」APP 不同于其他小说阅读软件，软件本身是空壳，什么都没有，你可以理解为阅读就是一个自由度高的浏览器，安装后还需要自行编写或导入书源才能使用，该项目就是将我自写的书源分享出来~  如有侵权，请及时联系我，我会第一时间进行处理。
 
 ****
 
-##书源地址： 
-下方只提供了非轻书源。如需轻小说书源则可以点击code中json文件，然后复制浏览器链接到阅读中进行网络导入。
+> 本项目是「阅读」APP 的书源分享，详细的使用方法可见官方文档。想要更多书源可前往喵公子发布页获取。
 
-
-- 网络导入地址：书源直链http://sy.legado1.top/sy.php/d52ab50b7680f459780e5860353361bb.json
-
-  以下 CDN 分流地址，任选一个  
-_https://raw.githubusercontent.com/yolo52/Legado/master/shuyuan.json_
-_https://raw.scholar.rr.nu/yolo52/Legado/master/shuyuan.json_
-_https://raw.nuaa.cf/yolo52/Legado/master/shuyuan.json_  
-_https://raw.kkgithub.com/yolo52/Legado/master/shuyuan.json_  
-_https://github.moeyy.xyz/https://raw.githubusercontent.com/yolo52/Legado/master/shuyuan.json_  
-****
-
-##导入步骤：
+> 官方项目为：[阅读开源地址](https://github.com/gedoor/legado)、[官方下载地址](https://github.com/gedoor/legado/releases)
 
 ****
+
+# 温馨提示：
+
+因为所有书源均来自网络，所以无法保证时效性，可能随时失效，如果失效可以去提issue，如果看见我会进行修复。
+
+>注意！因为精力有限，所以`本项目书源较少，但会不定期维护`。
+
+****
+
+## 导入步骤：
+
+****
+##一键导入(推荐)：
+打开发布页，找到对应的书源合集，点击一键导入即可。
 
 ##网络导入(推荐)：
-打开"阅读"APP点击右下角的`我的`-`书源管理`，这时候再点击右上角的`┇`-`网络导入` - 输入下面的网络导入地址并点击`确定`按钮即可
-****
+打开"阅读"APP点击右下角的`我的`-`书源管理`，这时候再点击右上角的`┇`-`网络导入` - 输入下面的网络导入地址并点击`确定`按钮即可。
 
-##许可证
+##本地导入：
+在项目中下载想要的书源json文件，在文件管理中找到下载的json文件，打开方式选择阅读打开即可。
+****
+## 赞赏支持
+
+![赞赏码](https://github.com/user-attachments/assets/f8021af9-5e4a-4591-85c1-138c60055b8f)
+
+****
+##最后祝你天天开心，生活愉快。
+## 许可证
 
 GPL-3.0许可证。
