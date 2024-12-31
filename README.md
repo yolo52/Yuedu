@@ -17,15 +17,17 @@ Yolo  自 写 的 阅 读 书 源
 直链：https://shuyuan.nyasama.cc/shuyuan/808615038821ec5f1939935f4656f3e6.json
 
 分流地址：https://cdn.jsdelivr.net/gh/yolo52/Yuedu@main/轻小说.json
+
 - 非轻书源
 直链：
 
 分流地址：https://cdn.jsdelivr.net/gh/yolo52/Yuedu@main/shuyuan.json
-「阅读」APP 不同于其他小说阅读软件，软件本身是空壳，什么都没有，你可以理解为阅读就是一个自由度高的浏览器，安装后还需要自行编写或导入书源才能使用，该项目就是将我自写的书源分享出来~  如有侵权，请及时联系我，我会第一时间进行处理。
 
 ****
 
-> 本项目是「阅读」APP 的书源分享，详细的使用方法可见官方文档。想要更多书源可前往喵公子发布页获取。
+>「阅读」APP 不同于其他小说阅读软件，软件本身是空壳，什么都没有，你可以理解为阅读就是一个自由度高的浏览器，安装后还需要自行编写或导入书源才能使用，该项目就是将我自写的书源分享出来~  如有侵权，请及时联系我，我会第一时间进行处理。
+
+> 本项目是「阅读」APP 的书源分享，详细的使用方法可见官方文档。想要更多书源可前往[喵公子发布页](http://yuedu.miaogongzi.net/gx.html)获取。
 
 > 官方项目为：[阅读开源地址](https://github.com/gedoor/legado)、[官方下载地址](https://github.com/gedoor/legado/releases)
 
