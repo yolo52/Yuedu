@@ -65,7 +65,8 @@ Yolo  自 写 的 阅 读 书 源
 
 # 赞赏支持
 
-![赞赏码](https://gitee.com/yolo-living/file/raw/master/mm_reward_qrcode_1731775771920.png)
+![赞赏码](https://github.com/user-attachments/assets/f79cdde9-32a9-4895-b7f7-1d63e285dfa5)
+
 
 ****
 
