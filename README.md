@@ -6,7 +6,7 @@ Yolo  自 写 的 阅 读 书 源
 如果你有什么好用的小说网站也可以 [Issues](https://github.com/yolo52/Legado/issues/new) 告诉我，看到我会做成书源。
 ****
 > 另外觉得好用请在右上角点个⭐Star 鼓励一下我一下🥰
-**
+****
 
 ## 书源地址： 
 也可进入 [发布页](https://yolo52.github.io/Yuedu/) 进行一键导入，更方便快捷。
