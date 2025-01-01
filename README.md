@@ -9,17 +9,17 @@ Yolo  自 写 的 阅 读 书 源
 ****
 
 ## 书源地址： 
-也可进入 [发布页]([https://yolo52.github.io/Yuedu/] 进行一键导入，更方便快捷。
+也可进入 [发布页](https://yolo52.github.io/Yuedu/) 进行一键导入，更方便快捷。
 
 注：下方分别提供了轻小说书源以及小说书源网络导入链接，后续可能会有漫画源。如需对应书源也可以点击code中json文件，然后复制浏览器链接到阅读中进行网络导入，如果导入出错，则自行寻找GitHub加速再进行导入。
 
-- 轻小说书源 ～ [一键导入](legado://import/bookSource?src=https://shuyuan.nyasama.cc/shuyuan/808615038821ec5f1939935f4656f3e6.json)
+- 轻小说书源 ~ [一键导入](legado://import/bookSource?src=https://shuyuan.nyasama.cc/shuyuan/808615038821ec5f1939935f4656f3e6.json)
 
 直链：https://shuyuan.nyasama.cc/shuyuan/808615038821ec5f1939935f4656f3e6.json
 
 分流地址：https://cdn.jsdelivr.net/gh/yolo52/Yuedu@main/轻小说.json
 
-- 非轻书源 ～ [一键导入](legado://import/bookSource?src=https://shuyuan.nyasama.cc/shuyuan/33fbdf265dbf4a2e4e59ca321217e8f0.json)
+- 非轻书源 ~ [一键导入](legado://import/bookSource?src=https://shuyuan.nyasama.cc/shuyuan/33fbdf265dbf4a2e4e59ca321217e8f0.json)
 
 直链：https://shuyuan.nyasama.cc/shuyuan/33fbdf265dbf4a2e4e59ca321217e8f0.json
 
