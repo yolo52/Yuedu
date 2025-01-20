@@ -16,9 +16,9 @@ Yolo  自 写 的 阅 读 书 源
 
 注：下方分别提供了轻小说书源以及小说书源网络导入链接，后续可能会有漫画源。如需对应书源也可以点击code中json文件，然后复制浏览器链接到阅读中进行网络导入，如果导入出错，则自行寻找GitHub加速再进行导入。
 
-- 轻小说书源 ~ [一键导入](legado://import/bookSource?src=https://shuyuan.nyasama.cc/shuyuan/18c2f78a382ee0e6908d582968c64fee.json)
+- 轻小说书源 ~ [一键导入](legado://import/bookSource?src=https://shuyuan.nyasama.cc/shuyuan/f49e438604e8726357097b5c335271ce.json)
 
-直链：https://shuyuan.nyasama.cc/shuyuan/18c2f78a382ee0e6908d582968c64fee.json
+直链：https://shuyuan.nyasama.cc/shuyuan/f49e438604e8726357097b5c335271ce.json
 
 分流地址：https://cdn.jsdelivr.net/gh/yolo52/Yuedu@main/轻小说.json
 
