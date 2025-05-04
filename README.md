@@ -26,7 +26,7 @@ Yolo  自 写 的 阅 读 书 源
 
 直链：https://shuyuan.nyasama.cc/shuyuan/5732df509770f6ebadb1afaa8db2e70a.json
 
-分流地址：
+分流地址：https://cdn.jsdelivr.net/gh/yolo52/Yuedu@main/shuyuan.json
 
 ****
 
