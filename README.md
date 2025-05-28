@@ -24,7 +24,7 @@ Yolo  自 写 的 阅 读 书 源
 
 - 非轻书源 ~ [一键导入](legado://import/bookSource?src=https://cdn.jsdelivr.net/gh/yolo52/Yuedu@main/shuyuan.json)
 
-直链：https://shuyuan.nyasama.cc/shuyuan/5732df509770f6ebadb1afaa8db2e70a.json
+直链：https://shuyuan.nyasama.cc/shuyuan/665afdacc506a084c87c207f9d9ad4ec.json
 
 分流地址：https://cdn.jsdelivr.net/gh/yolo52/Yuedu@main/shuyuan.json
 
