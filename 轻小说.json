@@ -63,8 +63,8 @@
     "isVolume": "vo",
     "updateTime": "href"
   },
-  "searchUrl": "<js>\npage==1 ?\n(source.getKey().split(\"#\")[0] + '/search.html?searchkey={{key}},{\"headers\": {\"referer\": \"https://www.bilinovel.com/search.html\"}}')\n:\n(source.getKey().split(\"#\")[0] + '/search/{{key}}_{{page}}.html,{\"headers\": {\"referer\": \"https://www.bilinovel.com/search.html\"}}')\n</js>",
-  "weight": 0
+    "searchUrl": "<js>\npage==1 ?\n(source.getKey().split(\"#\")[0] + '/search.html?searchkey={{key}},{\"headers\": {\"referer\": \"https://www.bilinovel.com/search.html\"}}')\n:\n(source.getKey().split(\"#\")[0] + '/search/{{key}}_{{page}}.html,{\"headers\": {\"referer\": \"https://www.bilinovel.com/search.html\"}}')\n</js>",
+    "weight": 0
   },
   {
   "bookSourceComment": "",
